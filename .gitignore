@@ -1,0 +1,12 @@
+# Binaries
+*.exe
+conn
+conn-*
+
+# Output results
+success_ips.txt
+timeout_ips.txt
+rejected_ips.txt
+permission_denied_ips.txt
+unknown_ips.txt
+*.txt
