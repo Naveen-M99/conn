@@ -1,7 +1,7 @@
 # Binaries
 *.exe
-conn
-conn-*
+/conn
+/conn-*
 
 # Output results
 success_ips.txt
